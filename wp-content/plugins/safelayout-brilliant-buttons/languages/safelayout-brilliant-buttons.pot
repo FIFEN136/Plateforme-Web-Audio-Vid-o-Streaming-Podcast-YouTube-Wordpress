@@ -1,0 +1,645 @@
+# Copyright (C) 2023-2026 Safelayout
+# This file is distributed under the same license as the Safelayout Brilliant Buttons plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Safelayout Brilliant Buttons 1.2.3\n"
+"POT-Creation-Date: 2025-11-25 12:37+0330\n"
+"PO-Revision-Date: 2025-11-25 12:38+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: assets/js/plugin.js:1
+#: elementor/class-safelayout-buttons-elementor-widget.php:12
+#: elementor/class-safelayout-buttons-elementor-widget.php:52
+#: src/button/index.js:15 src/mce/mce-plugin-source.js:117
+msgid "Button (Safelayout)"
+msgstr ""
+
+#: assets/patterns/pattern001.php:3
+msgid "Buttons 01"
+msgstr ""
+
+#: assets/patterns/pattern002.php:3
+msgid "Buttons 02"
+msgstr ""
+
+#: assets/patterns/pattern003.php:3
+msgid "Buttons 03"
+msgstr ""
+
+#: assets/patterns/pattern004.php:3
+msgid "Buttons 04"
+msgstr ""
+
+#: assets/patterns/pattern005.php:3
+msgid "Buttons 05"
+msgstr ""
+
+#: assets/patterns/pattern006.php:3
+msgid "Buttons 06"
+msgstr ""
+
+#: assets/patterns/pattern007.php:3
+msgid "Buttons 07"
+msgstr ""
+
+#: assets/patterns/pattern008.php:3
+msgid "Buttons 08"
+msgstr ""
+
+#: assets/patterns/pattern009.php:3
+msgid "Buttons 09"
+msgstr ""
+
+#: elementor/class-safelayout-buttons-elementor-widget.php:33
+#: safelayout-brilliant-buttons.php:377 src/button/index.js:18
+msgid "Button"
+msgstr ""
+
+#: elementor/class-safelayout-buttons-elementor-widget.php:34
+#: src/button/index.js:19
+msgid "Buttons"
+msgstr ""
+
+#: elementor/class-safelayout-buttons-elementor-widget.php:35
+#: safelayout-brilliant-buttons.php:376 src/button/index.js:20
+msgid "Safelayout"
+msgstr ""
+
+#: elementor/class-safelayout-buttons-elementor-widget.php:36
+#: src/button/index.js:21
+msgid "brilliant"
+msgstr ""
+
+#: elementor/templates/template.php:9 src/elementor/template/template.php:9
+msgid "Sync Library"
+msgstr ""
+
+#: elementor/templates/template.php:30 src/elementor/template/template.php:30
+msgid "Loading"
+msgstr ""
+
+#: elementor/templates/template.php:41 src/elementor/template/template.php:41
+msgid "Insert"
+msgstr ""
+
+#: elementor/templates/template.php:48 src/elementor/template/template.php:48
+msgid "Go Pro"
+msgstr ""
+
+#: elementor/templates/template.php:60 src/elementor/template/template.php:60
+msgid "Back to Library"
+msgstr ""
+
+#: elementor/templates/template.php:69 src/elementor/template/template.php:69
+msgid "All Categories"
+msgstr ""
+
+#: elementor/templates/template.php:78 src/elementor/template/template.php:78
+msgid "Search Templates:"
+msgstr ""
+
+#: elementor/templates/template.php:103 src/elementor/template/template.php:103
+msgid "Pro"
+msgstr ""
+
+#: elementor/templates/template.php:117 src/elementor/template/template.php:117
+msgid "Preview"
+msgstr ""
+
+#: elementor/templates/template.php:132 src/elementor/template/template.php:132
+msgid "Want to learn more about the Safelayout library?"
+msgstr ""
+
+#: elementor/templates/template.php:133 src/elementor/template/template.php:133
+msgid "Click here"
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:358
+msgid "Settings"
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:502
+#, php-format
+msgid ""
+"Howdy, %1$s! Thank you for using %2$s! Could you please do us a BIG favor "
+"and %3$s? Just to help us spread the word and boost our motivation.%4$s"
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:506 safelayout-brilliant-buttons.php:547
+msgid "Safelayout Brilliant Buttons"
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:507
+msgid "give it a 5-star rating on WordPress.org"
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:508 safelayout-brilliant-buttons.php:550
+msgid "We really appreciate your support!"
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:514
+msgid "Yes, I will help ★★★★★"
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:516
+msgid "Remind me later"
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:517
+msgid "I already did"
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:543
+#, php-format
+msgid ""
+"Howdy, %1$s! Thank you for using %2$s! Please consider %3$s, get full "
+"features and %4$s.%5$s"
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:548
+msgid "upgrading to the PRO version"
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:549
+msgid "support the developer"
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:556 src/button/controls.js:930
+#: src/mce/index.js:1106
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:559
+msgid "No Thanks"
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:646
+msgid "Quick Feedback"
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:649
+msgid "If you have a moment, please share why you are deactivating"
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:654
+msgid "It's a temporary deactivation"
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:658
+msgid "The plugin broke my site"
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:659
+msgid "Please explain the problem."
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:663
+msgid "I found a better plugin"
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:664
+msgid "What's the plugin name?"
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:668
+msgid "Other"
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:669
+msgid "Please share the reason."
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:673
+msgid "Submit & Deactivate"
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:674
+msgid "Skip & Deactivate"
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:677
+msgid "Wait ..."
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:678
+msgid "Redirecting ..."
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:738
+msgid "Blocks By Safelayout"
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:749 safelayout-brilliant-buttons.php:765
+msgid "Safelayout Brilliant Buttons Options"
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:750
+msgid "Safelayout Buttons"
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:768 src/button/controls.js:144
+#: src/mce/index.js:256
+msgid "General"
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:777
+msgid "Safelayout Brilliant Buttons Installed Icon Packs"
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:780
+msgid "No."
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:781
+msgid "Pack Name"
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:782
+msgid "Pack Status"
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:793
+msgid "Active"
+msgstr ""
+
+#: safelayout-brilliant-buttons.php:800
+msgid "Save Changes"
+msgstr ""
+
+#: src/button/color-picker.js:85
+msgid "Solid"
+msgstr ""
+
+#: src/button/color-picker.js:90
+msgid "Gradient"
+msgstr ""
+
+#: src/button/controls.js:149 src/mce/index.js:261
+msgid "More Options"
+msgstr ""
+
+#: src/button/controls.js:171 src/mce/index.js:343
+msgid "Button effect"
+msgstr ""
+
+#: src/button/controls.js:193 src/mce/index.js:365
+msgid "Link and Title"
+msgstr ""
+
+#: src/button/controls.js:199 src/mce/index.js:371
+msgid "Tooltip"
+msgstr ""
+
+#: src/button/controls.js:204 src/mce/index.js:376
+msgid "Label"
+msgstr ""
+
+#: src/button/controls.js:207 src/mce/index.js:379
+msgid "It is for screen readers."
+msgstr ""
+
+#: src/button/controls.js:212 src/mce/index.js:384
+msgid "Link url"
+msgstr ""
+
+#: src/button/controls.js:231 src/mce/index.js:403
+msgid "Link rel"
+msgstr ""
+
+#: src/button/controls.js:239
+msgid "Size"
+msgstr ""
+
+#: src/button/controls.js:267 src/mce/index.js:448
+msgid "Width"
+msgstr ""
+
+#: src/button/controls.js:269 src/mce/index.js:450
+msgid "Button width"
+msgstr ""
+
+#: src/button/controls.js:292 src/button/controls.js:312
+#: src/button/controls.js:604 src/mce/index.js:473 src/mce/index.js:494
+#: src/mce/index.js:793
+msgid "Reset"
+msgstr ""
+
+#: src/button/controls.js:298 src/mce/index.js:480
+msgid "Minimum Width"
+msgstr ""
+
+#: src/button/controls.js:318 src/mce/index.js:500
+msgid "Color"
+msgstr ""
+
+#: src/button/controls.js:325 src/mce/index.js:507
+msgid "Add a background color to the button."
+msgstr ""
+
+#: src/button/controls.js:326 src/button/controls.js:332 src/mce/index.js:508
+#: src/mce/index.js:514
+msgid "Background color"
+msgstr ""
+
+#: src/button/controls.js:339 src/mce/index.js:522
+msgid "Text color"
+msgstr ""
+
+#: src/button/controls.js:348 src/button/controls.js:363 src/mce/index.js:532
+#: src/mce/index.js:548
+msgid "Icon"
+msgstr ""
+
+#: src/button/controls.js:354 src/mce/index.js:538
+msgid "Add an icon to the button."
+msgstr ""
+
+#: src/button/controls.js:355 src/mce/index.js:539
+msgid "Add icon"
+msgstr ""
+
+#: src/button/controls.js:392 src/mce/index.js:578
+msgid "Icon position"
+msgstr ""
+
+#: src/button/controls.js:403 src/mce/index.js:589
+msgid "Left"
+msgstr ""
+
+#: src/button/controls.js:408 src/mce/index.js:594
+msgid "Right"
+msgstr ""
+
+#: src/button/controls.js:414 src/mce/index.js:600
+msgid "Icon Fill Color"
+msgstr ""
+
+#: src/button/controls.js:433 src/mce/index.js:620
+msgid "Icon Stroke Color"
+msgstr ""
+
+#: src/button/controls.js:451 src/mce/index.js:639
+msgid "Icon Stroke Width"
+msgstr ""
+
+#: src/button/controls.js:469 src/mce/index.js:657
+msgid "Icon gap"
+msgstr ""
+
+#: src/button/controls.js:483 src/mce/index.js:671
+msgid "Icon background shape"
+msgstr ""
+
+#: src/button/controls.js:487 src/mce/index.js:675
+msgid "Background shape color"
+msgstr ""
+
+#: src/button/controls.js:511 src/mce/index.js:700
+msgid "Icon Animation"
+msgstr ""
+
+#: src/button/controls.js:548 src/button/controls.js:555 src/mce/index.js:738
+#: src/mce/index.js:745
+msgid "Sub text"
+msgstr ""
+
+#: src/button/controls.js:554 src/mce/index.js:744
+msgid "Add a sub text to the button."
+msgstr ""
+
+#: src/button/controls.js:562 src/mce/index.js:752
+msgid "More Text"
+msgstr ""
+
+#: src/button/controls.js:586 src/mce/index.js:775
+msgid "Border"
+msgstr ""
+
+#: src/button/controls.js:607 src/mce/index.js:796
+msgid "Border radius"
+msgstr ""
+
+#: src/button/controls.js:615 src/mce/index.js:804
+msgid "Background pattern"
+msgstr ""
+
+#: src/button/controls.js:620 src/mce/index.js:809
+msgid "Pattern opacity"
+msgstr ""
+
+#: src/button/controls.js:648 src/button/controls.js:654 src/mce/index.js:837
+#: src/mce/index.js:843
+msgid "Box shadow"
+msgstr ""
+
+#: src/button/controls.js:660 src/button/controls.js:710 src/mce/index.js:849
+#: src/mce/index.js:900
+msgid "color"
+msgstr ""
+
+#: src/button/controls.js:667 src/button/controls.js:717 src/mce/index.js:857
+#: src/mce/index.js:908
+msgid "blur"
+msgstr ""
+
+#: src/button/controls.js:677 src/button/controls.js:726 src/mce/index.js:867
+#: src/mce/index.js:917
+msgid "X offset"
+msgstr ""
+
+#: src/button/controls.js:686 src/button/controls.js:735 src/mce/index.js:876
+#: src/mce/index.js:926
+msgid "Y offset"
+msgstr ""
+
+#: src/button/controls.js:698 src/button/controls.js:704 src/mce/index.js:888
+#: src/mce/index.js:894
+msgid "Text shadow"
+msgstr ""
+
+#: src/button/controls.js:747 src/mce/index.js:938
+msgid "Hover animation"
+msgstr ""
+
+#: src/button/controls.js:792 src/mce/index.js:985
+msgid "Click effect"
+msgstr ""
+
+#: src/button/controls.js:799 src/mce/index.js:992
+msgid "Click effect color"
+msgstr ""
+
+#: src/button/controls.js:821 src/mce/index.js:1015
+msgid "After click ( loading )"
+msgstr ""
+
+#: src/button/controls.js:827 src/mce/index.js:1021
+msgid "Change button text after click."
+msgstr ""
+
+#: src/button/controls.js:828 src/mce/index.js:1022
+msgid "Change button text"
+msgstr ""
+
+#: src/button/controls.js:833 src/mce/index.js:1027
+msgid "New text"
+msgstr ""
+
+#: src/button/controls.js:837 src/mce/index.js:1031
+msgid "See \"After click\" effect on the front-end."
+msgstr ""
+
+#: src/button/controls.js:842 src/mce/index.js:1036
+msgid "Loading effect"
+msgstr ""
+
+#: src/button/controls.js:861 src/mce/index.js:1055
+msgid "Block spacing"
+msgstr ""
+
+#: src/button/controls.js:866 src/mce/index.js:1060
+msgid "Margin"
+msgstr ""
+
+#: src/button/controls.js:871 src/mce/index.js:1065
+msgid "Padding"
+msgstr ""
+
+#: src/button/controls.js:903 src/mce/index.js:310
+msgid "Uppercase"
+msgstr ""
+
+#: src/button/controls.js:909
+msgid "Rotate"
+msgstr ""
+
+#: src/button/controls.js:928 src/mce/index.js:1104
+msgid "Upgrade to pro version and get full features."
+msgstr ""
+
+#: src/button/effects.js:184 src/button/effects.js:196
+msgid "Animation Background color"
+msgstr ""
+
+#: src/button/effects.js:190 src/button/effects.js:199
+msgid "Animation Text color"
+msgstr ""
+
+#: src/button/effects.js:205
+msgid "Animation Border color"
+msgstr ""
+
+#: src/button/effects.js:211
+msgid "Animation Text and Border color"
+msgstr ""
+
+#: src/button/effects.js:217 src/button/effects.js:224
+msgid "Animation Split color"
+msgstr ""
+
+#: src/button/effects.js:231 src/button/effects.js:238
+#: src/button/effects.js:245 src/button/effects.js:252
+msgid "Animation Stretch color"
+msgstr ""
+
+#: src/button/effects.js:259 src/button/effects.js:266
+#: src/button/effects.js:273 src/button/effects.js:280
+msgid "Animation Slide color"
+msgstr ""
+
+#: src/button/effects.js:287
+msgid "Animation Ellipse color"
+msgstr ""
+
+#: src/button/effects.js:294
+msgid "Animation Rect color"
+msgstr ""
+
+#: src/button/effects.js:386
+msgid "Animation fill color"
+msgstr ""
+
+#: src/button/icon-picker.js:58
+msgid "one"
+msgstr ""
+
+#: src/button/icon-picker.js:59
+msgid "two"
+msgstr ""
+
+#: src/button/icon-picker.js:60
+msgid "three"
+msgstr ""
+
+#: src/button/icon-picker.js:61
+msgid "four"
+msgstr ""
+
+#: src/button/icon-picker.js:62
+msgid "five"
+msgstr ""
+
+#: src/button/icon-picker.js:224
+msgid "Search icon"
+msgstr ""
+
+#: src/button/index.js:16
+msgid "Beautiful buttons."
+msgstr ""
+
+#: src/button/save.js:143 src/mce/index.js:293
+msgid "My Button"
+msgstr ""
+
+#: src/mce/index.js:288
+msgid "Button text"
+msgstr ""
+
+#: src/mce/index.js:306
+msgid "Align text (multiline)"
+msgstr ""
+
+#: src/mce/index.js:316
+msgid "Bold"
+msgstr ""
+
+#: src/mce/index.js:322
+msgid "Italic"
+msgstr ""
+
+#: src/mce/index.js:328
+msgid "Strike through"
+msgstr ""
+
+#: src/mce/index.js:335
+msgid "Rotate ( Shape Effects)"
+msgstr ""
+
+#: src/mce/index.js:411
+msgid "Position & Size"
+msgstr ""
+
+#: src/mce/index.js:416
+msgid "top"
+msgstr ""
+
+#: src/mce/index.js:1111
+msgid "Advanced"
+msgstr ""
+
+#: src/mce/index.js:1116
+msgid "Additional CSS class(es)"
+msgstr ""
+
+#: src/mce/index.js:1119
+msgid "Separate multiple classes with spaces."
+msgstr ""
